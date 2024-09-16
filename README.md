@@ -170,9 +170,12 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ##OUTPUT
 
+![Screenshot (52)](https://github.com/user-attachments/assets/40426cc1-8468-4a1a-bedb-1d0972eef80e)
 
 
+## RESULT:
 
+The programs are executed successfully.
 
 
 
