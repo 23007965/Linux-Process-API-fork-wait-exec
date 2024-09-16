@@ -62,6 +62,7 @@ int main(void)
 
 
 ##OUTPUT
+
 ![Screenshot (50)](https://github.com/user-attachments/assets/47e836a0-9acf-4e47-998c-f99d303d6717)
 
 
